@@ -1,4 +1,4 @@
-# Ecommerce_mern-stack
+# Ecommerce_MERN
 
 ![Logo](homepage.png)
 
